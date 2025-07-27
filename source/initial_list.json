@@ -1,18 +1,18 @@
 [
   {
-    "file_name": "customer_first.parquet",
+    "file_name": "customer_first.csv",
     "folder_path": "customer"
   },
   {
-    "file_name": "orders_first.parquet",
+    "file_name": "orders_first.csv",
     "folder_path": "orders"
   },
   {
-    "file_name": "products_first.parquet",
+    "file_name": "products_first.csv",
     "folder_path": "products"
   },
   {
-    "file_name": "regions.parquet",
+    "file_name": "regions.csv",
     "folder_path": "regions"
   }
 ]
