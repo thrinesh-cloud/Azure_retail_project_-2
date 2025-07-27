@@ -1,8 +1,18 @@
-{
-  "files": [
-    "orders_first.csv",
-    "products_first.csv",
-    "customers_first.csv",
-    "regions.csv"
-  ]
-}
+[
+  {
+    "fileName": "customer_first.parquet",
+    "tableName": "customer"
+  },
+  {
+    "fileName": "orders_first.parquet",
+    "tableName": "orders"
+  },
+  {
+    "fileName": "products_first.parquet",
+    "tableName": "products"
+  },
+  {
+    "fileName": "regions.parquet",
+    "tableName": "regions"
+  }
+]
