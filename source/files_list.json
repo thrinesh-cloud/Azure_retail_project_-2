@@ -1,0 +1,8 @@
+{
+  "files": [
+    "orders_first.csv",
+    "products_first.csv",
+    "customers_first.csv",
+    "regions.csv"
+  ]
+}
